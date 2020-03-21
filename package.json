@@ -15,11 +15,6 @@
         "structures",
         "validation"
     ],
-    "files": [
-        "validation",
-        "vue-mc.js",
-        "vue-mc.es.js"
-    ],
     "types": "src/index.d.ts",
     "bugs": {
         "url": "https://github.com/FiguredLimited/vue-mc/issues"
