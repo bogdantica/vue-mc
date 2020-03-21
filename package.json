@@ -86,11 +86,6 @@
         ],
         "include": [
             "src/**/*.ts"
-        ],
-        "exclude": [
-            "src/**/*.js",
-            "src/**/*.d.ts"
-        ],
         "reporter": [
             "lcov",
             "text",
